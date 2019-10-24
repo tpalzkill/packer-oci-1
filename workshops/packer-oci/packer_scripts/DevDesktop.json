@@ -6,5 +6,5 @@
       "my.region": "us-phoenix-1",
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaaohifyvnze42q2kl43bu6pyjmhyn4ix5xo6axuhsmgrpfalusf6aa",
       "my.subnet_ocid": "ocid1.subnet.oc1.phx.aaaaaaaakbdrgshfwnrdpnh5c5ugebqvnmogcyhlpiouyrs6y6okvpdhu36a",
-      "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
+      "my.base_image_ocid": "ocid1.image.oc1.phx.aaaaaaaa77atxnaou5ykurakjrjybn4efaa7w3tmg47oo3b4v6e4jldkzzlq"
     }
